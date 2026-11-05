@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-forums-integration-flutter",
+  "capabilityKey": "planned:cms:forums-integration",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_forums_integration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/forums-integration.md",
+  "presentationPlan": "projects/cms/flutter/forums-integration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
